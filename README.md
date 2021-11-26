@@ -1,6 +1,11 @@
 # Local Maps - Dev Sec
   
   Guia de Utilização
+  
+  Rodar npm install, nas pastas:
+  -App
+  -Web
+  -BackEnd
 
 Aplicação Full Stack utilizando Node JS e Express no Backend, React JS e TypeScript no Front-End e React Native no Mobile.
 
